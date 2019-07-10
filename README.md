@@ -1,7 +1,7 @@
 # Bootstrap Grid Gallery
 
 
-This is an album changing based on the screen size using Bootstrap Grid! Below are the screenshots of the examples!
+## This is an album changing based on the screen size using Bootstrap Grid! Below are the screenshots of the examples!
 
 * Desktop View (Large):
 
